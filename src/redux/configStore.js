@@ -1,3 +1,4 @@
+/* eslint-disable import/no-extraneous-dependencies */
 import {
   createStore, combineReducers, applyMiddleware, compose,
 } from 'redux';
