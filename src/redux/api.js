@@ -1,4 +1,4 @@
-export const URL = 'http://127.0.0.1:3000/greetings';
+export const URL = 'http://127.0.0.1:3000/api/v1/greetings';
 
 export const fetchApi = async () => {
   const fetching = await fetch(URL);
